@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wap:home|Door43 (wap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wap|d43-wap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wap/archive/master.zip|d43-wap.zip]]
+
+**Recent Changes**
+{{changes>ns = wap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wap|Ethnologue data]]
+
